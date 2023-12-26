@@ -1,0 +1,55 @@
+div{
+    margin-bottom: 10px;
+    margin-block-end: 15px;
+  }
+
+button{
+    margin-left: 70px;
+}
+
+.linkStyle {
+    text-decoration: none;
+    color: #010305;
+    font-size: 25px;
+    font-weight: bold;
+    margin-right: 15px;
+  }
+  .coolButton {
+    background-color: #6ae99f; /* Düğme arka plan rengi */
+    color: #d7d7d7; /* Metin rengi */
+    padding: 10px 20px; /* Dolgu (padding) değerleri */
+    font-size: 16px; /* Metin boyutu */
+    border: none; /* Kenarlık yok */
+    border-radius: 5px; /* Köşe yuvarlama */
+    cursor: pointer; /* İmleci el göster */
+    transition: background-color 0.3s ease; /* Geçiş efekti */
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .coolButton:hover {
+    background-color: #25f705; /* Fare üzerine gelindiğinde arka plan rengini değiştir */
+  }
+
+  .linkStyle2 {
+    text-decoration: none;
+    color: #010305;
+    font-size: 25px;
+    font-weight: bold;
+    margin-right: 15px;
+  }
+  .coolButton2 {
+    background-color: #effb07; /* Düğme arka plan rengi */
+    color: #e1d016; /* Metin rengi */
+    padding: 10px 20px; /* Dolgu (padding) değerleri */
+    font-size: 16px; /* Metin boyutu */
+    border: none; /* Kenarlık yok */
+    border-radius: 5px; /* Köşe yuvarlama */
+    cursor: pointer; /* İmleci el göster */
+    transition: background-color 0.3s ease; /* Geçiş efekti */
+  }
+  
+  .coolButton2:hover {
+    background-color: #f7c305; /* Fare üzerine gelindiğinde arka plan rengini değiştir */
+  }
+
